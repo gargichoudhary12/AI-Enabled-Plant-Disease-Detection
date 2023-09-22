@@ -20,7 +20,9 @@ Link to webpage - https://leaf-detection-6756b.web.app/
 
 **DOMAIN -** Artificial Intelligence, Machine Learning and Wed Development
 
+
 **PROJECT TYPE** - Group
+
 **ROLE** - Backend Developer
 
 
