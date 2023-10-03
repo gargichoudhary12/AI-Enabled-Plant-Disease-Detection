@@ -18,7 +18,7 @@ Link to webpage - https://leaf-detection-6756b.web.app/
 
 
 
-**DOMAIN -** Artificial Intelligence, Machine Learning and Wed Development
+**DOMAIN -** Artificial Intelligence, Machine Learning and Web Development
 
 
 **PROJECT TYPE** - Group
